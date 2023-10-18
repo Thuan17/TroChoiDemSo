@@ -74,3 +74,14 @@ D:\LapTrinhMang\LapTrinhMang\TroChoiDemSo\Server\obj\Debug\Server.csproj.Generat
 D:\LapTrinhMang\LapTrinhMang\TroChoiDemSo\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
 D:\LapTrinhMang\LapTrinhMang\TroChoiDemSo\Server\obj\Debug\Server.exe
 D:\LapTrinhMang\LapTrinhMang\TroChoiDemSo\Server\obj\Debug\Server.pdb
+D:\LapTrinhMang\DoAn\TroChoiDemSo\Server\bin\Debug\Server.exe.config
+D:\LapTrinhMang\DoAn\TroChoiDemSo\Server\bin\Debug\Server.exe
+D:\LapTrinhMang\DoAn\TroChoiDemSo\Server\bin\Debug\Server.pdb
+D:\LapTrinhMang\DoAn\TroChoiDemSo\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\LapTrinhMang\DoAn\TroChoiDemSo\Server\obj\Debug\Server.Form1.resources
+D:\LapTrinhMang\DoAn\TroChoiDemSo\Server\obj\Debug\Server.F_Server.resources
+D:\LapTrinhMang\DoAn\TroChoiDemSo\Server\obj\Debug\Server.Properties.Resources.resources
+D:\LapTrinhMang\DoAn\TroChoiDemSo\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\LapTrinhMang\DoAn\TroChoiDemSo\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\DoAn\TroChoiDemSo\Server\obj\Debug\Server.exe
+D:\LapTrinhMang\DoAn\TroChoiDemSo\Server\obj\Debug\Server.pdb

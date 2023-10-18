@@ -73,3 +73,13 @@ D:\LapTrinhMang\LapTrinhMang\TroChoiDemSo\Client\obj\Debug\Client.csproj.Generat
 D:\LapTrinhMang\LapTrinhMang\TroChoiDemSo\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
 D:\LapTrinhMang\LapTrinhMang\TroChoiDemSo\Client\obj\Debug\Client.exe
 D:\LapTrinhMang\LapTrinhMang\TroChoiDemSo\Client\obj\Debug\Client.pdb
+D:\LapTrinhMang\DoAn\TroChoiDemSo\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\LapTrinhMang\DoAn\TroChoiDemSo\Client\obj\Debug\Client.F_Client.resources
+D:\LapTrinhMang\DoAn\TroChoiDemSo\Client\obj\Debug\Client.Properties.Resources.resources
+D:\LapTrinhMang\DoAn\TroChoiDemSo\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\LapTrinhMang\DoAn\TroChoiDemSo\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\DoAn\TroChoiDemSo\Client\obj\Debug\Client.exe
+D:\LapTrinhMang\DoAn\TroChoiDemSo\Client\obj\Debug\Client.pdb
+D:\LapTrinhMang\DoAn\TroChoiDemSo\Client\bin\Debug\Client.exe.config
+D:\LapTrinhMang\DoAn\TroChoiDemSo\Client\bin\Debug\Client.exe
+D:\LapTrinhMang\DoAn\TroChoiDemSo\Client\bin\Debug\Client.pdb

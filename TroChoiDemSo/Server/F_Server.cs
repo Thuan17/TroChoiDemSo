@@ -99,27 +99,20 @@ namespace Server
 
                 string receivedData = reader1.ReadString();
                 string receivedData2 = reader2.ReadString();
-                //listenClient(receivedData, receivedData2);
-                //txtName.AppendText(receivedData + Environment.NewLine);
+              
                 invokeFn("Điểm Client 1 :" + receivedData);
                 invokeFn2("Điểm Client 2:" + receivedData2);
                 Random(receivedData, receivedData2);
             }
 
         }
-        public void DiemSo()
-        {
-            int diem = 10;
-
-
-        }
+     
 
 
 
         public void Random(string reader1, string reader2)
         {
-            //BinaryReader
-            MessageBox.Show(reader1, reader2);
+           
 
             int a, b;
            
@@ -127,19 +120,6 @@ namespace Server
             string text = txtDiemClient1.Text;
             a = Convert.ToInt32(reader1);
             b = Convert.ToInt32(reader2);
-
-            //if (text != string.Empty)
-            //{
-            //    writer1.Write("Điểm :" + text);
-            //    writer2.Write("Điểm :" + text);
-            //}
-            //else
-            //{
-            //    writer1.Write("Điểm :" + 10);
-            //    writer2.Write("Điểm :" + 10);
-            //}
-
-
 
             Random random = new Random();
             int randomNumber = random.Next(1, 10000);
@@ -182,9 +162,7 @@ namespace Server
             }
             else
             {
-                //a < b;
-                //diem = diem + a;
-
+                
                 int Cong = Tinh(10, a);
                 int Tru = Tinh(10, -a);
 
@@ -283,10 +261,6 @@ namespace Server
             }
         }
 
-        //random so
-     
-      
-        //Diem so
         
         private void btnStart_Click(object sender, EventArgs e)
         {

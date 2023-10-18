@@ -48,29 +48,29 @@ namespace Client
                 clientStatusLabel.Text = status;
             }
         }
-        private void UpdateReceivedData(string data)
-        {
-            if (receivedDataTextBox.InvokeRequired)
-            {
-                receivedDataTextBox.Invoke(new Action(() => receivedDataTextBox.AppendText(data + Environment.NewLine)));
-            }
-            else
-            {
-                receivedDataTextBox.AppendText(data + Environment.NewLine);
-            }
-        }
+        //private void UpdateReceivedData(string data)
+        //{
+        //    if (receivedDataTextBox.InvokeRequired)
+        //    {
+        //        receivedDataTextBox.Invoke(new Action(() => receivedDataTextBox.AppendText(data + Environment.NewLine)));
+        //    }
+        //    else
+        //    {
+        //        receivedDataTextBox.AppendText(data + Environment.NewLine);
+        //    }
+        //}
 
-        private void UpdateSentData(string data)
-        {
-            if (sentDataTextBox.InvokeRequired)
-            {
-                sentDataTextBox.Invoke(new Action(() => sentDataTextBox.AppendText(data + Environment.NewLine)));
-            }
-            else
-            {
-                sentDataTextBox.AppendText(data + Environment.NewLine);
-            }
-        }
+        //private void UpdateSentData(string data)
+        //{
+        //    if (sentDataTextBox.InvokeRequired)
+        //    {
+        //        sentDataTextBox.Invoke(new Action(() => sentDataTextBox.AppendText(data + Environment.NewLine)));
+        //    }
+        //    else
+        //    {
+        //        sentDataTextBox.AppendText(data + Environment.NewLine);
+        //    }
+        //}
 
         //listenServer
         public void listenServer()
@@ -139,8 +139,15 @@ namespace Client
             if (client != null && client.Connected)
             {
                 string dataToSend = sendDataTextBox.Text;
-                writer.Write(dataToSend);
-                UpdateSentData(dataToSend);
+                int chuyen = Convert.ToInt32(dataToSend);
+                if (chuyen <= 5)
+                {
+                    writer.Write(dataToSend);
+                }
+                else
+                {
+                    MessageBox.Show("Điểm bé hơn 5 ");
+                }
             }
             else
             {
