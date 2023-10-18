@@ -1,0 +1,60 @@
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo\Client2\bin\Debug\Client2.exe.config
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo\Client2\bin\Debug\Client2.exe
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo\Client2\bin\Debug\Client2.pdb
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo\Client2\obj\Debug\Client2.csproj.AssemblyReference.cache
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo\Client2\obj\Debug\Client2.Properties.Resources.resources
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo\Client2\obj\Debug\Client2.csproj.GenerateResource.cache
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo\Client2\obj\Debug\Client2.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo\Client2\obj\Debug\Client2.exe
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo\Client2\obj\Debug\Client2.pdb
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo - Copy\TroChoiDemSo\Client2\obj\Debug\Client2.csproj.AssemblyReference.cache
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo - Copy\TroChoiDemSo\Client2\obj\Debug\Client2.F_Client2.resources
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo - Copy\TroChoiDemSo\Client2\obj\Debug\Client2.Properties.Resources.resources
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo - Copy\TroChoiDemSo\Client2\obj\Debug\Client2.csproj.GenerateResource.cache
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo - Copy\TroChoiDemSo\Client2\obj\Debug\Client2.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo - Copy\TroChoiDemSo\Client2\obj\Debug\Client2.exe
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo - Copy\TroChoiDemSo\Client2\obj\Debug\Client2.pdb
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo - Copy\TroChoiDemSo\Client2\bin\Debug\Client2.exe.config
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo - Copy\TroChoiDemSo\Client2\bin\Debug\Client2.exe
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo - Copy\TroChoiDemSo\Client2\bin\Debug\Client2.pdb
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo\Client2\obj\Debug\Client2.F_Client2.resources
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo - Copy\Client2\bin\Debug\Client2.exe.config
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo - Copy\Client2\bin\Debug\Client2.exe
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo - Copy\Client2\bin\Debug\Client2.pdb
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo - Copy\Client2\obj\Debug\Client2.csproj.AssemblyReference.cache
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo - Copy\Client2\obj\Debug\Client2.F_Client2.resources
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo - Copy\Client2\obj\Debug\Client2.Properties.Resources.resources
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo - Copy\Client2\obj\Debug\Client2.csproj.GenerateResource.cache
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo - Copy\Client2\obj\Debug\Client2.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo - Copy\Client2\obj\Debug\Client2.exe
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo - Copy\Client2\obj\Debug\Client2.pdb
+D:\DaiHoc\LapTrinhMang\DoAn\TroChoiDemSo\Client2\bin\Debug\Client2.exe.config
+D:\DaiHoc\LapTrinhMang\DoAn\TroChoiDemSo\Client2\bin\Debug\Client2.exe
+D:\DaiHoc\LapTrinhMang\DoAn\TroChoiDemSo\Client2\bin\Debug\Client2.pdb
+D:\DaiHoc\LapTrinhMang\DoAn\TroChoiDemSo\Client2\obj\Debug\Client2.csproj.AssemblyReference.cache
+D:\DaiHoc\LapTrinhMang\DoAn\TroChoiDemSo\Client2\obj\Debug\Client2.F_Client2.resources
+D:\DaiHoc\LapTrinhMang\DoAn\TroChoiDemSo\Client2\obj\Debug\Client2.Properties.Resources.resources
+D:\DaiHoc\LapTrinhMang\DoAn\TroChoiDemSo\Client2\obj\Debug\Client2.csproj.GenerateResource.cache
+D:\DaiHoc\LapTrinhMang\DoAn\TroChoiDemSo\Client2\obj\Debug\Client2.csproj.CoreCompileInputs.cache
+D:\DaiHoc\LapTrinhMang\DoAn\TroChoiDemSo\Client2\obj\Debug\Client2.exe
+D:\DaiHoc\LapTrinhMang\DoAn\TroChoiDemSo\Client2\obj\Debug\Client2.pdb
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo - Copy\Client2\bin\Debug\Client2.exe.config
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo - Copy\Client2\bin\Debug\Client2.exe
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo - Copy\Client2\bin\Debug\Client2.pdb
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo - Copy\Client2\obj\Debug\Client2.csproj.AssemblyReference.cache
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo - Copy\Client2\obj\Debug\Client2.F_Client2.resources
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo - Copy\Client2\obj\Debug\Client2.Properties.Resources.resources
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo - Copy\Client2\obj\Debug\Client2.csproj.GenerateResource.cache
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo - Copy\Client2\obj\Debug\Client2.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo - Copy\Client2\obj\Debug\Client2.exe
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo - Copy\Client2\obj\Debug\Client2.pdb
+D:\LapTrinhMang\LapTrinhMang\TroChoiDemSo\Client2\bin\Debug\Client2.exe.config
+D:\LapTrinhMang\LapTrinhMang\TroChoiDemSo\Client2\bin\Debug\Client2.exe
+D:\LapTrinhMang\LapTrinhMang\TroChoiDemSo\Client2\bin\Debug\Client2.pdb
+D:\LapTrinhMang\LapTrinhMang\TroChoiDemSo\Client2\obj\Debug\Client2.csproj.AssemblyReference.cache
+D:\LapTrinhMang\LapTrinhMang\TroChoiDemSo\Client2\obj\Debug\Client2.F_Client2.resources
+D:\LapTrinhMang\LapTrinhMang\TroChoiDemSo\Client2\obj\Debug\Client2.Properties.Resources.resources
+D:\LapTrinhMang\LapTrinhMang\TroChoiDemSo\Client2\obj\Debug\Client2.csproj.GenerateResource.cache
+D:\LapTrinhMang\LapTrinhMang\TroChoiDemSo\Client2\obj\Debug\Client2.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\LapTrinhMang\TroChoiDemSo\Client2\obj\Debug\Client2.exe
+D:\LapTrinhMang\LapTrinhMang\TroChoiDemSo\Client2\obj\Debug\Client2.pdb

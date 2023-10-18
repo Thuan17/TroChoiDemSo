@@ -1,0 +1,76 @@
+D:\DaiHoc\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo\Server\bin\Debug\Server.exe.config
+D:\DaiHoc\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo\Server\bin\Debug\Server.exe
+D:\DaiHoc\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo\Server\bin\Debug\Server.pdb
+D:\DaiHoc\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\DaiHoc\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo\Server\obj\Debug\Server.Form1.resources
+D:\DaiHoc\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo\Server\obj\Debug\Server.Properties.Resources.resources
+D:\DaiHoc\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\DaiHoc\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\DaiHoc\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo\Server\obj\Debug\Server.exe
+D:\DaiHoc\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo\Server\obj\Debug\Server.pdb
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo\Server\bin\Debug\Server.exe.config
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo\Server\bin\Debug\Server.exe
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo\Server\bin\Debug\Server.pdb
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo\Server\obj\Debug\Server.Form1.resources
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo\Server\obj\Debug\Server.Properties.Resources.resources
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo\Server\obj\Debug\Server.exe
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo\Server\obj\Debug\Server.pdb
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo - Copy\TroChoiDemSo\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo - Copy\TroChoiDemSo\Server\obj\Debug\Server.Form1.resources
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo - Copy\TroChoiDemSo\Server\obj\Debug\Server.Properties.Resources.resources
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo - Copy\TroChoiDemSo\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo - Copy\TroChoiDemSo\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo - Copy\TroChoiDemSo\Server\obj\Debug\Server.exe
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo - Copy\TroChoiDemSo\Server\obj\Debug\Server.pdb
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo - Copy\TroChoiDemSo\Server\bin\Debug\Server.exe.config
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo - Copy\TroChoiDemSo\Server\bin\Debug\Server.exe
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo - Copy\TroChoiDemSo\Server\bin\Debug\Server.pdb
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo - Copy\TroChoiDemSo\Server\obj\Debug\Server.F_Server.resources
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo\Server\obj\Debug\Server.F_Server.resources
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo - Copy\Server\bin\Debug\Server.exe.config
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo - Copy\Server\bin\Debug\Server.exe
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo - Copy\Server\bin\Debug\Server.pdb
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo - Copy\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo - Copy\Server\obj\Debug\Server.Form1.resources
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo - Copy\Server\obj\Debug\Server.F_Server.resources
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo - Copy\Server\obj\Debug\Server.Properties.Resources.resources
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo - Copy\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo - Copy\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo - Copy\Server\obj\Debug\Server.exe
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\TroChoiDemSo - Copy\Server\obj\Debug\Server.pdb
+D:\DaiHoc\LapTrinhMang\DoAn\TroChoiDemSo\Server\bin\Debug\Server.exe.config
+D:\DaiHoc\LapTrinhMang\DoAn\TroChoiDemSo\Server\bin\Debug\Server.exe
+D:\DaiHoc\LapTrinhMang\DoAn\TroChoiDemSo\Server\bin\Debug\Server.pdb
+D:\DaiHoc\LapTrinhMang\DoAn\TroChoiDemSo\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\DaiHoc\LapTrinhMang\DoAn\TroChoiDemSo\Server\obj\Debug\Server.Form1.resources
+D:\DaiHoc\LapTrinhMang\DoAn\TroChoiDemSo\Server\obj\Debug\Server.F_Server.resources
+D:\DaiHoc\LapTrinhMang\DoAn\TroChoiDemSo\Server\obj\Debug\Server.Properties.Resources.resources
+D:\DaiHoc\LapTrinhMang\DoAn\TroChoiDemSo\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\DaiHoc\LapTrinhMang\DoAn\TroChoiDemSo\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\DaiHoc\LapTrinhMang\DoAn\TroChoiDemSo\Server\obj\Debug\Server.exe
+D:\DaiHoc\LapTrinhMang\DoAn\TroChoiDemSo\Server\obj\Debug\Server.pdb
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo - Copy\Server\bin\Debug\Server.exe.config
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo - Copy\Server\bin\Debug\Server.exe
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo - Copy\Server\bin\Debug\Server.pdb
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo - Copy\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo - Copy\Server\obj\Debug\Server.Form1.resources
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo - Copy\Server\obj\Debug\Server.F_Server.resources
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo - Copy\Server\obj\Debug\Server.Properties.Resources.resources
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo - Copy\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo - Copy\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo - Copy\Server\obj\Debug\Server.exe
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo - Copy\Server\obj\Debug\Server.pdb
+D:\LapTrinhMang\LapTrinhMang\TroChoiDemSo\Server\bin\Debug\Server.exe.config
+D:\LapTrinhMang\LapTrinhMang\TroChoiDemSo\Server\bin\Debug\Server.exe
+D:\LapTrinhMang\LapTrinhMang\TroChoiDemSo\Server\bin\Debug\Server.pdb
+D:\LapTrinhMang\LapTrinhMang\TroChoiDemSo\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\LapTrinhMang\LapTrinhMang\TroChoiDemSo\Server\obj\Debug\Server.Form1.resources
+D:\LapTrinhMang\LapTrinhMang\TroChoiDemSo\Server\obj\Debug\Server.F_Server.resources
+D:\LapTrinhMang\LapTrinhMang\TroChoiDemSo\Server\obj\Debug\Server.Properties.Resources.resources
+D:\LapTrinhMang\LapTrinhMang\TroChoiDemSo\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\LapTrinhMang\LapTrinhMang\TroChoiDemSo\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\LapTrinhMang\TroChoiDemSo\Server\obj\Debug\Server.exe
+D:\LapTrinhMang\LapTrinhMang\TroChoiDemSo\Server\obj\Debug\Server.pdb
